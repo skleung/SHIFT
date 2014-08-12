@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="604.66254"
+   height="136.73006"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="239.06163"
+     inkscape:cy="-58.77771"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="717"
+     inkscape:window-height="442"
+     inkscape:window-x="88"
+     inkscape:window-y="174"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1050.224,-1136.8544)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="511.42856"
+           height="311.42856"
+           x="1194.2858"
+           y="1186.6479" /></flowRegion><flowPara
+         id="flowPara2991" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+       transform="matrix(1.0257259,0,0,1.0529101,-27.017915,-61.368787)"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="765.71429"
+           height="388.57144"
+           x="1040"
+           y="1123.7908"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:Montserrat;-inkscape-font-specification:Montserrat" /></flowRegion><flowPara
+         id="flowPara2999"
+         style="font-size:144px;font-weight:bold;fill:#333333;fill-opacity:1;stroke:none;-inkscape-font-specification:Montserrat Bold">health</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:139.78410339px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1498.3306"
+       y="1219.6066"
+       id="text3001"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3003"
+         x="1498.3306"
+         y="1219.6066"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#32cd32;fill-opacity:1;font-family:Montserrat;-inkscape-font-specification:Montserrat">++</tspan></text>
+  </g>
+</svg>
