@@ -461,7 +461,7 @@
                             </div>
                         </div>
 			<div class="row text-center">
-				<p class="text-muted">Forms powered by sendGrid API and Parse.</p>
+				<p class="text-muted">Form powered by forms.brace.io</p>
 			</div>
                     </form>
                 </div>
@@ -509,6 +509,11 @@
         function getUrlParameter(sParam)
         {
             var sPageURL = window.location.hash.split("?")[1];
+            var sAnchor = window.location.hash.split("?")[0];
+            console.log(sAnchor);
+            if (sAnchor ==="#contactForm"){
+                $("html, body").scrollTop($(sAnchor).offset().top); 
+            }
             var sURLVariables = sPageURL.split('&');
             for (var i = 0; i < sURLVariables.length; i++) 
             {
