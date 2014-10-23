@@ -218,7 +218,8 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-bg1.jpg');
+  background-image: url('../img/16.jpg');
+  background-color: black;
   background-repeat: none;
   background-attachment: scroll;
   background-position: center center;
