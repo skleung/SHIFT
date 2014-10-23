@@ -295,6 +295,24 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
+section#team .advisor-col {
+  text-align: center;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+section#team .advisor-col h3 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+section#team .advisor-col a {
+  color: black;
+}
+section#team .advisor-col a:hover {
+  text-decoration: none;
+  color: #32cd32;
+}
+
 section#advisors .advisor-col {
   text-align: center;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
