@@ -218,7 +218,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/16.jpg');
+  background-image: url('../img/header-bg1.jpg');
   background-color: black;
   background-repeat: none;
   background-attachment: scroll;
@@ -231,7 +231,7 @@ header {
   color: white;
 }
 header #subheader {
-  background-image: url('../img/16.jpg');
+  background-image: url('../img/header-bg1.jpg');
   height: 50%;
 }
 header .intro-text {
@@ -431,6 +431,9 @@ section#advisors .advisor-col a:hover {
 }
 .timeline .timeline-heading h4.subheading {
   text-transform: none;
+}
+.timeline-body {
+  font-size: 18px;
 }
 .timeline .timeline-body > p,
 .timeline .timeline-body > ul {
