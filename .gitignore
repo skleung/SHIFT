@@ -1,3 +1,4 @@
 js/emailer/*
 js/emailer.js
 mail/*
+.DS_Store
