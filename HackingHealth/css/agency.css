@@ -236,6 +236,9 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
   background-color: #F5634A;
+  background: -webkit-linear-gradient(#ED2F3B, #F5634A, #FB9C60);
+  background: -moz-linear-gradient(#ED2F3B, #F5634A, #FB9C60);
+  background: linear-gradient(#ED2F3B, #F5634A, #FB9C60);
   text-align: center;
   color: white;
   height: 100%;
