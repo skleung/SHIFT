@@ -321,7 +321,7 @@ section h3.section-subheading {
   }
 }
 section#sponsors .tile {
-  padding: 10px 0;
+  padding: 30px 0;
 }
 section#sponsors .sp-logo {
   width: auto;
@@ -331,6 +331,8 @@ section#sponsors #bdsi {
   height: 51px;
 }
 section#sponsors #surgery {
+}
+section#sponsors #treehacks {
 }
 section#sponsors #cigh {
 }
