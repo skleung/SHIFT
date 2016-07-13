@@ -241,12 +241,17 @@ header {
   background: linear-gradient(#ED2F3B, #F5634A, #FB9C60);
   text-align: center;
   color: white;
-  height: 100%;
-  min-height: 500px;
+  min-height: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+  /*height: 100%;*/
+  /*min-height: 500px;*/
 }
 header .intro-text {
-  padding-top: 100px;
-  padding-bottom: 50px;
+  /*padding-top: 100px;*/
+  padding-bottom: 40px;
 }
 header .intro-text .logo {
   height: 110px;
@@ -265,12 +270,12 @@ header .intro-text .intro-lead-in {
 }
 @media (min-width: 768px) {
   header {
-    height: 100vh;
-    min-height: 600px;
+    /*height: 100vh;*/
+    /*min-height: 600px;*/
   }
   header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 200px;
+    /*padding-top: 100px;*/
+    /*padding-bottom: 200px;*/
   }
   header .intro-text .logo {
     height: 150px;
@@ -314,6 +319,20 @@ section h3.section-subheading {
     font-style: italic;
     margin-bottom: 75px;
   }
+}
+section#sponsors .tile {
+  padding: 10px 0;
+}
+section#sponsors .sponsor-logo {
+  width: auto;
+  height: 53px;
+}
+section#sponsors #bdsi {
+  height: 51px;
+}
+section#sponsors #surgery {
+}
+section#sponsors #cigh {
 }
 section#advisors .advisor-col,
 section#team .advisor-col {
