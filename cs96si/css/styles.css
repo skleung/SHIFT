@@ -156,3 +156,14 @@ ul {
 a:hover {
   text-decoration: none;
 }
+
+.tagline {
+  line-height: 46px;
+  text-align: right;
+  font-size: 22px;
+}
+
+.logo {
+  height: 30px;
+  width: 30px;
+}
