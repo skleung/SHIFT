@@ -154,6 +154,8 @@ ul {
 }
 
 a:hover {
+  cursor: pointer;
+  border-bottom: 1px dotted #d9230f;
   text-decoration: none;
 }
 
